@@ -1,0 +1,8 @@
+fall_env/
+data/
+datasets/
+pose_data/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
